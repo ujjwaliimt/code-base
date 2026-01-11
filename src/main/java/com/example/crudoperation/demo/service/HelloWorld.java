@@ -1,4 +1,5 @@
 package com.example.crudoperation.demo.service;public interface HelloWorld {
 
-System.out.println("hello world");
+for(int i=0;i<=10;i++){
+}
 }
